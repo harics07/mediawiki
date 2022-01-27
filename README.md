@@ -23,6 +23,6 @@
 
 ![m5](https://user-images.githubusercontent.com/76770914/151433634-e8d1e4f0-b131-467c-a95c-b6fdc540949e.JPG)
 
-7.
+7. Shell script handles the entire installation of MediaWiki.
 
 ![DB](https://user-images.githubusercontent.com/76770914/151433641-2adfbad6-f3f3-4757-b6be-b13e47228081.JPG)

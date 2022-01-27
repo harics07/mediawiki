@@ -1,0 +1,4 @@
+Findins form the mediawiki setup,
+1. The userdata which is to execute the shell script requires the cloud-init configuration to perform the necessary installation of services on the server.
+2. LocalSettings file needs to be manually installed back to the /var/www/html/mediawiki folder in-order to complete the setup, which mediawiki provides it 
+   as a downloadable file.

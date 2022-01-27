@@ -26,3 +26,5 @@
 7. Shell script handles the entire installation of MediaWiki.
 
 ![DB](https://user-images.githubusercontent.com/76770914/151433641-2adfbad6-f3f3-4757-b6be-b13e47228081.JPG)
+
+
